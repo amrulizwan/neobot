@@ -1,0 +1,356 @@
+{
+   "users": [
+      {
+         "jid": "6281358919342@s.whatsapp.net",
+         "afk": -1,
+         "afkReason": "",
+         "banned": false,
+         "banTemp": 0,
+         "banTimes": 0,
+         "limit": 21,
+         "premium": false,
+         "expired": 0,
+         "lastseen": 1677634108823,
+         "hit": 10,
+         "spam": 1,
+         "warning": 0,
+         "usebot": 1677634108863
+      },
+      {
+         "jid": "6283192887162@s.whatsapp.net",
+         "afk": -1,
+         "afkReason": "",
+         "banned": false,
+         "banTemp": 0,
+         "banTimes": 0,
+         "limit": 25,
+         "premium": false,
+         "expired": 0,
+         "lastseen": 1677637163912,
+         "hit": 0,
+         "spam": 0,
+         "warning": 0
+      },
+      {
+         "jid": "6285238543351@s.whatsapp.net",
+         "afk": -1,
+         "afkReason": "",
+         "banned": false,
+         "banTemp": 0,
+         "banTimes": 0,
+         "limit": 1013,
+         "premium": true,
+         "expired": 1680228535739,
+         "lastseen": 1677637192408,
+         "hit": 29,
+         "spam": 0,
+         "warning": 0,
+         "usebot": 1677637162224
+      },
+      {
+         "jid": "6285961415169@s.whatsapp.net",
+         "afk": -1,
+         "afkReason": "",
+         "banned": false,
+         "banTemp": 0,
+         "banTimes": 0,
+         "limit": 25,
+         "premium": false,
+         "expired": 0,
+         "lastseen": 1677636940860,
+         "hit": 0,
+         "spam": 0,
+         "warning": 0
+      },
+      {
+         "jid": "6287835430089@s.whatsapp.net",
+         "afk": -1,
+         "afkReason": "",
+         "banned": false,
+         "banTemp": 0,
+         "banTimes": 0,
+         "limit": 25,
+         "premium": false,
+         "expired": 0,
+         "lastseen": 1677637256799,
+         "hit": 1,
+         "spam": 0,
+         "warning": 0,
+         "usebot": 1677637141313
+      }
+   ],
+   "chats": [
+      {
+         "jid": "6281358919342@s.whatsapp.net",
+         "chat": 23,
+         "lastchat": 0,
+         "lastseen": 1677634109792,
+         "command": 1677634108863
+      },
+      {
+         "jid": "6285238543351@s.whatsapp.net",
+         "chat": 27,
+         "lastchat": 0,
+         "lastseen": 1677636390230,
+         "command": 1677636384926
+      },
+      {
+         "jid": "120363042527782515@g.us",
+         "chat": 74,
+         "lastchat": 0,
+         "lastseen": 1677637256799,
+         "command": 1677637162224
+      }
+   ],
+   "groups": [
+      {
+         "jid": "120363042527782515@g.us",
+         "activity": 1677637256799,
+         "autoread": true,
+         "antidelete": true,
+         "antilink": false,
+         "antivirtex": false,
+         "filter": false,
+         "left": false,
+         "localonly": false,
+         "mute": false,
+         "member": {
+            "6285238543351@s.whatsapp.net": {
+               "lastseen": 1677637192408,
+               "warning": 0
+            },
+            "6285961415169@s.whatsapp.net": {
+               "lastseen": 1677636940864,
+               "warning": 0
+            },
+            "6287835430089@s.whatsapp.net": {
+               "lastseen": 1677637256802,
+               "warning": 0
+            }
+         },
+         "text_left": "",
+         "text_welcome": "",
+         "welcome": true,
+         "expired": 0,
+         "stay": false
+      }
+   ],
+   "statistic": {
+      "swm": {
+         "hitstat": 4,
+         "today": 4,
+         "lasthit": 1677634108864,
+         "sender": "6281358919342"
+      },
+      "yt": {
+         "hitstat": 2,
+         "today": 2,
+         "lasthit": 1677636400309,
+         "sender": "6285238543351"
+      },
+      "convert": {
+         "hitstat": 2,
+         "today": 2,
+         "lasthit": 1677636410336,
+         "sender": "6285238543351"
+      },
+      "igstalk": {
+         "hitstat": 1,
+         "today": 1,
+         "lasthit": 1677634855745,
+         "sender": "6285238543351"
+      },
+      "owner": {
+         "hitstat": 1,
+         "today": 1,
+         "lasthit": 1677636123165,
+         "sender": "6285238543351"
+      },
+      "group": {
+         "hitstat": 2,
+         "today": 2,
+         "lasthit": 1677636363423,
+         "sender": "6285238543351"
+      },
+      "join": {
+         "hitstat": 1,
+         "today": 1,
+         "lasthit": 1677636271694,
+         "sender": "6285238543351"
+      },
+      "tiktok": {
+         "hitstat": 2,
+         "today": 2,
+         "lasthit": 1677636553827,
+         "sender": "6285238543351"
+      },
+      "limit": {
+         "hitstat": 1,
+         "today": 1,
+         "lasthit": 1677636481874,
+         "sender": "6285238543351"
+      },
+      "premium": {
+         "hitstat": 1,
+         "today": 1,
+         "lasthit": 1677636491399,
+         "sender": "6285238543351"
+      },
+      "+prem": {
+         "hitstat": 2,
+         "today": 2,
+         "lasthit": 1677636543905,
+         "sender": "6285238543351"
+      },
+      "emojimix": {
+         "hitstat": 4,
+         "today": 4,
+         "lasthit": 1677636722443,
+         "sender": "6285238543351"
+      },
+      "apk": {
+         "hitstat": 2,
+         "today": 2,
+         "lasthit": 1677636901360,
+         "sender": "6285238543351"
+      },
+      "artinama": {
+         "hitstat": 2,
+         "today": 2,
+         "lasthit": 1677637141314,
+         "sender": "6287835430089"
+      },
+      "unban": {
+         "hitstat": 1,
+         "today": 1,
+         "lasthit": 1677637162224,
+         "sender": "6285238543351"
+      }
+   },
+   "sticker": {},
+   "setting": {
+      "autodownload": true,
+      "debug": false,
+      "chatbot": true,
+      "error": [],
+      "pluginDisable": [],
+      "groupmode": false,
+      "sk_pack": "Sticker",
+      "sk_author": "@neoxrs",
+      "self": false,
+      "mimic": [],
+      "multiprefix": true,
+      "prefix": [
+         ".",
+         "/",
+         "!",
+         "#"
+      ],
+      "toxic": [
+         "ajg",
+         "ajig",
+         "anjas",
+         "anjg",
+         "anjim",
+         "anjing",
+         "anjrot",
+         "anying",
+         "asw",
+         "autis",
+         "babi",
+         "bacod",
+         "bacot",
+         "bagong",
+         "bajingan",
+         "bangsad",
+         "bangsat",
+         "bastard",
+         "bego",
+         "bgsd",
+         "biadab",
+         "biadap",
+         "bitch",
+         "bngst",
+         "bodoh",
+         "bokep",
+         "cocote",
+         "coli",
+         "colmek",
+         "comli",
+         "dajjal",
+         "dancok",
+         "dongo",
+         "fuck",
+         "gelay",
+         "goblog",
+         "goblok",
+         "guoblog",
+         "guoblok",
+         "hairul",
+         "henceut",
+         "idiot",
+         "itil",
+         "jamet",
+         "jancok",
+         "jembut",
+         "jingan",
+         "kafir",
+         "kanjut",
+         "kanyut",
+         "keparat",
+         "kntl",
+         "kontol",
+         "lana",
+         "loli",
+         "lont",
+         "lonte",
+         "mancing",
+         "meki",
+         "memek",
+         "ngentod",
+         "ngentot",
+         "ngewe",
+         "ngocok",
+         "ngtd",
+         "njeng",
+         "njing",
+         "njinx",
+         "oppai",
+         "pantek",
+         "pantek",
+         "peler",
+         "pepek",
+         "pilat",
+         "pler",
+         "pornhub",
+         "pucek",
+         "puki",
+         "pukimak",
+         "redhub",
+         "sange",
+         "setan",
+         "silit",
+         "telaso",
+         "tempek",
+         "tete",
+         "titit",
+         "toket",
+         "tolol",
+         "tomlol",
+         "tytyd",
+         "wildan",
+         "xnxx"
+      ],
+      "online": true,
+      "onlyprefix": "+",
+      "owners": [
+         "6285887776722",
+         "994408364923"
+      ],
+      "lastReset": 1677633782799,
+      "msg": "Hi +tag 🪸\nI am an automated system (WhatsApp Bot) that can help to do something, search and get data / information only through WhatsApp.\n\n◦ *Database* : +db\n◦ *Library* : Baileys v+version\n",
+      "menuStyle": 5,
+      "cover": "https://telegra.ph/file/d826ed4128ba873017479.jpg",
+      "link": "https://chat.whatsapp.com/DqG5mqnIPSc6xuH"
+   }
+}
