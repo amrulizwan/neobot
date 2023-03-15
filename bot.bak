@@ -26,7 +26,7 @@
          "limit": 25,
          "premium": false,
          "expired": 0,
-         "lastseen": 1678854698603,
+         "lastseen": 1678854948851,
          "hit": 0,
          "spam": 0,
          "warning": 0
@@ -41,7 +41,7 @@
          "limit": 1001,
          "premium": true,
          "expired": 1680228535739,
-         "lastseen": 1678854734446,
+         "lastseen": 1678854957567,
          "hit": 72,
          "spam": 0,
          "warning": 0,
@@ -295,23 +295,23 @@
    "chats": [
       {
          "jid": "120363042527782515@g.us",
-         "chat": 306,
+         "chat": 307,
          "lastchat": 0,
-         "lastseen": 1678854556118,
+         "lastseen": 1678854930553,
          "command": 1678854522448
       },
       {
          "jid": "6283192887162@s.whatsapp.net",
-         "chat": 11,
+         "chat": 15,
          "lastchat": 0,
-         "lastseen": 1678853314199,
+         "lastseen": 1678854948851,
          "command": 1678853249189
       },
       {
          "jid": "6285238543351@s.whatsapp.net",
-         "chat": 22,
+         "chat": 24,
          "lastchat": 0,
-         "lastseen": 1678795889479,
+         "lastseen": 1678854957567,
          "command": 1678792084217
       },
       {
@@ -346,7 +346,7 @@
    "groups": [
       {
          "jid": "120363042527782515@g.us",
-         "activity": 1678854556118,
+         "activity": 1678854930553,
          "autoread": true,
          "antidelete": false,
          "antilink": false,
@@ -357,7 +357,7 @@
          "mute": false,
          "member": {
             "6285238543351@s.whatsapp.net": {
-               "lastseen": 1678854556119,
+               "lastseen": 1678854930554,
                "warning": 0
             },
             "6285961415169@s.whatsapp.net": {
