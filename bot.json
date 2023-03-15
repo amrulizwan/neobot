@@ -26,10 +26,11 @@
          "limit": 25,
          "premium": false,
          "expired": 0,
-         "lastseen": 1678854948851,
-         "hit": 0,
+         "lastseen": 1678855043084,
+         "hit": 1,
          "spam": 0,
-         "warning": 0
+         "warning": 0,
+         "usebot": 1678855024937
       },
       {
          "jid": "6285238543351@s.whatsapp.net",
@@ -41,11 +42,11 @@
          "limit": 1001,
          "premium": true,
          "expired": 1680228535739,
-         "lastseen": 1678854957567,
-         "hit": 72,
+         "lastseen": 1678855038765,
+         "hit": 73,
          "spam": 0,
          "warning": 0,
-         "usebot": 1678854522448
+         "usebot": 1678855038769
       },
       {
          "jid": "6285961415169@s.whatsapp.net",
@@ -302,10 +303,10 @@
       },
       {
          "jid": "6283192887162@s.whatsapp.net",
-         "chat": 15,
+         "chat": 17,
          "lastchat": 0,
-         "lastseen": 1678854948851,
-         "command": 1678853249189
+         "lastseen": 1678855029589,
+         "command": 1678855024937
       },
       {
          "jid": "6285238543351@s.whatsapp.net",
@@ -337,10 +338,10 @@
       },
       {
          "jid": "120363090079718494@g.us",
-         "chat": 20,
+         "chat": 22,
          "lastchat": 0,
-         "lastseen": 1678854734446,
-         "command": 1678854398033
+         "lastseen": 1678855043084,
+         "command": 1678855038769
       }
    ],
    "groups": [
@@ -428,7 +429,7 @@
       },
       {
          "jid": "120363090079718494@g.us",
-         "activity": 1678854734446,
+         "activity": 1678855043084,
          "autoread": true,
          "antidelete": true,
          "antilink": false,
@@ -439,7 +440,7 @@
          "mute": false,
          "member": {
             "6285238543351@s.whatsapp.net": {
-               "lastseen": 1678854734448,
+               "lastseen": 1678855038766,
                "warning": 0
             }
          },
