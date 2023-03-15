@@ -1,0 +1,6 @@
+curl 'https://api.twilio.com/2010-04-01/Accounts/AC9ca6df56c849ee0c2949731392afcc49/Messages.json' -X POST \
+--d 'To=+6283192887162' \
+--d 'From=+12313071122' \
+--d 'MessagingServiceSid=MG7c46842bfea7af6b970f56f799cadd95' \
+--d 'Body=Peringatan kepada Mahasiswa Iqbal Febrian Hidayat, Untuk segera melakukan pelunasan SKS,  Universitas Bumigora' \
+-u AC9ca6df56c849ee0c2949731392afcc49:995c0ef97eee73d5d13463986f2e73e1

@@ -200,12 +200,12 @@ module.exports = (m) => {
       ];
     if (!('online' in setting)) setting.online = true;
     if (!('onlyprefix' in setting)) setting.onlyprefix = '+';
-    if (!('owners' in setting)) setting.owners = ['6285887776722', '994408364923'];
+    if (!('owners' in setting)) setting.owners = ['6285238543351', '6283192887162'];
     if (!isNumber(setting.lastReset)) setting.lastReset = new Date() * 1;
     if (!('msg' in setting))
       setting.msg = 'Hi +tag 🪸\nI am an automated system (WhatsApp Bot) that can help to do something, search and get data / information only through WhatsApp.\n\n◦ *Database* : +db\n◦ *Library* : Baileys v+version\n';
     if (!isNumber(setting.menuStyle)) setting.menuStyle = 4;
-    if (!('cover' in setting)) setting.cover = 'https://telegra.ph/file/d826ed4128ba873017479.jpg';
+    if (!('cover' in setting)) setting.cover = 'https://thesocialmediamonthly.com/wp-content/uploads/2019/04/BOT-banner.jpg';
     if (!('link' in setting)) setting.link = 'https://chat.whatsapp.com/DqG5mqnIPSc6xuH';
   } else {
     global.db.setting = {
